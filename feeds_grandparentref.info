@@ -1,0 +1,6 @@
+name = Feeds Grandparent Reference
+description = Provide a reference to the grandparent feed in the grandchild node
+package = Feeds
+dependencies[] = feeds
+dependencies[] = nodereference
+core = 6.x
